@@ -1,0 +1,12 @@
+NOTICE
+
+This project includes data from the U.S. federal government that is in the public domain:
+
+- National Transportation Atlas Database (NTAD) datasets
+- U.S. Census Bureau TIGER/Line shapefiles
+- American Community Survey (ACS) population estimates
+
+These datasets are U.S. government works as defined in 17 U.S.C. § 105 and are not subject to U.S. copyright.
+
+The software code and project structure in this repository are licensed under the Apache License, Version 2.0.
+See the LICENSE file for more details.
