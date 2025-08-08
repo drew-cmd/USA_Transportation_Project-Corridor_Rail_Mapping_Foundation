@@ -1,7 +1,7 @@
 # USA Transportation Project Mapping Foundation
 
 This project builds the analytical and mapping foundation for exploring the future of high-speed rail (HSR) in the United States.
-It combines passenger rail, freight rail, and population center data into an integrated geospatial framework that can identify, evaluate, and visualize the most promising HSR corridors across the country.
+It combines passenger rail, freight rail, and population center data into an integrated geospatial framework that can evaluate and visualize the most promising HSR corridors across the country.
 Outputs include ranked corridor tables, GeoJSON shapefiles, and interactive Folium maps for visualization.
 
 ---
